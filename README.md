@@ -11,4 +11,4 @@ Branched from https://github.com/facebook/create-react-app/tree/master/packages/
 
 ## Usage
 
-- yarn create react-app my-app --template file:../path/to/your/template/cra-template-react-redux-typescript-api-starter
+- yarn create react-app my-app --template cra-template-react-redux-typescript-api
