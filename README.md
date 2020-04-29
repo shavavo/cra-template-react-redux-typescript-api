@@ -8,3 +8,7 @@ Branched from https://github.com/facebook/create-react-app/tree/master/packages/
 - Typed redux + thunk store
 - Typed components (connected + styled-components)
 - React router
+
+## Usage
+
+- yarn create react-app my-app --template file:../path/to/your/template
