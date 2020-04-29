@@ -1,23 +1,24 @@
 {
-  "name": "cra-template-react-redux-typescript-api-starter",
-  "version": "1.0.0",
+  "name": "cra-template-react-redux-typescript-api",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "typescript"
   ],
+  "main": "template.json",
   "description": "The base TypeScript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shavavo/react-redux-typescript-api-starter"
+    "url": "https://github.com/shavavo/cra-template-react-redux-typescript-api"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/shavavo/react-redux-typescript-api-starter/issues"
+    "url": "https://github.com/shavavo/cra-template-react-redux-typescript-api/issues"
   },
   "files": [
     "template",
