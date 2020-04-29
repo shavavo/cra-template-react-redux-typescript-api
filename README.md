@@ -1,5 +1,7 @@
 # react-redux-typescript-api-starter
 
+![npm](https://img.shields.io/npm/v/cra-template-react-redux-typescript-api)
+
 Branched from https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript
 
 ## This template provides starter code for:
